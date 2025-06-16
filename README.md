@@ -1,1 +1,2 @@
 # Counter-app_using_Closure
+This Counter App is a simple web application built using HTML, CSS, and JavaScript. It allows users to increment, decrement, and reset a number displayed on the screen. The core logic is implemented using a JavaScript closure, which is a function that remembers the variables from its outer scope even after the outer function has finished executing. Using closure helps keep the code clean, structured, and efficient.
